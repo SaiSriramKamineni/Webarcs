@@ -21,4 +21,4 @@ Tailwind CSS
 
 **Link of The App: https://stellular-tarsier-af7397.netlify.app/**
 
-: https://github.com/SHIVARISHITHA : https://github.com/Aaditya-N : https://github.com/akhilsaicharancigurupati1
+: https://github.com/SHIVARISHITHA : https://github.com/Aaditya-N : https://github.com/akhilsaicharan571
